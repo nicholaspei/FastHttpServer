@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+
 
 var colors = require('colors'),
     httpServer = require('./lib/http-server'),
