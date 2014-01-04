@@ -68,7 +68,6 @@ function listen(port) {
       + ' on port: '.yellow
       + port.toString().cyan);
     log('Hit CTRL-C to stop the server');
-
     if (argv.o) {
       opener('http://127.0.0.1:' + port.toString());
     }
