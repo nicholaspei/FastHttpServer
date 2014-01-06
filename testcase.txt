@@ -1,0 +1,6 @@
+下载接口：Download(string fileId)
+url  http://192.168.0.0/FileServer/Download/234234324343sdfsd.png?ClientId=sdfsddaf
+http://192.168.0.0/FileServer/DownloadFile/234234324343sdfsd.png?ClientId=sdfsdafsdaf
+http://192.168.0.0/FileServer/PreviewFile/234234324343sdfsd.png?ClientId=sdfsdafsdaf
+http://192.168.43.54:8031/FileServer/ServiceRoot?action=DownloadFile&fileId=sdfsd.png&ClientId =sdfsdafsdaf
+http://192.168.43.54:8031/FileServer/ServiceRoot?action=previewfile&fileId=sdfsd.png&ClientId =sdfsdafsdaf
