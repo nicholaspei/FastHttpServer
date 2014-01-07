@@ -2,6 +2,6 @@
 
 ##Introduction
 
-1.This is a http file server .
+1.Just a fast http file server .
 
 =======
